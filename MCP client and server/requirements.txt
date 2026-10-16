@@ -1,0 +1,5 @@
+﻿mcp[cli]
+pdfplumber
+langchain-community
+langchain-mcp-adapters
+langgraph
